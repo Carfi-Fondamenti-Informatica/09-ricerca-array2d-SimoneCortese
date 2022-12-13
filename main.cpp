@@ -1,6 +1,6 @@
 #include <iostream>
 #include "lib.h"
-using nampespace std;
+using namespace std;
 
 int main(){
     int contatore = 0;
